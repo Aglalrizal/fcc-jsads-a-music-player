@@ -75,6 +75,13 @@ const allSongs = [{
         duration: "2:43",
         src: "https://s3.amazonaws.com/org.freecodecamp.mp3-player-project/chasing-that-feeling.mp3",
     },
+    {
+        id: 10,
+        title: "Cincin",
+        artist: "Hindia",
+        duration: "4:27",
+        src: "https://drive.google.com/file/d/1SI6u_QGw3JKTsjNVP_s_OYGyAL_ksx9g/view?usp=drivesdk",
+    },           
 ];
 
 const audio = new Audio();
